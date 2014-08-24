@@ -6,7 +6,8 @@
     "start": "node app.js"
   },
   "dependencies": {
+    "ejs": "*",
     "express": "3.16.7",
-    "ejs": "*"
+    "method-override": "^2.1.3"
   }
 }
